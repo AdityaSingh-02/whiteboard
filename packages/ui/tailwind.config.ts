@@ -1,0 +1,1 @@
+module.exports = require("@whiteboard/configs/tailwind/tailwind.config")

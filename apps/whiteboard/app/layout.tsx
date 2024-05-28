@@ -1,4 +1,4 @@
-import "./globals.css";
+import "@whiteboard/ui/styles"
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
